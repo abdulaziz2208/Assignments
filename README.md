@@ -1,1 +1,1 @@
-# Assignments
+# EDA Projects
